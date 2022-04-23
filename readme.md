@@ -4,6 +4,10 @@
 
     - Exemplos Basicos utilizando gRPC + protobuf 
     - Exemplo na Linguagem Go (google)
+    - Client e Server Default
+    - Server Stream
+    - Client Stream
+    
 
 ## Configuração do ambiente de desenvolvimento
 
@@ -26,7 +30,7 @@
 ## Estrutura proto
 
     - Usuario (id, nome, email)
-        - interface de implementação para adicionar usuario(AddUser())
+
 
 ## Pendencias
 
