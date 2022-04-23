@@ -7,6 +7,7 @@
     - Client e Server Default
     - Server Stream
     - Client Stream
+    - Stream bi-direcional
     
 
 ## Configuração do ambiente de desenvolvimento
