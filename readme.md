@@ -8,6 +8,16 @@
     - Utilizado Visual Studio Code 
         - Plugin Remote Container (https://code.visualstudio.com/docs/remote/containers) 
 
+## Comandos
+    - Rodar Servidor
+        go run cmd/client/server.go
+    - Rodar Cliente
+        go run cmd/client/client.go
+
+## Estrutura proto
+    - Usuario (id, nome, email)
+        - interface de implementação para adicionar usuario(AddUser())
+
 # Referencias 
 
     - [https://grpc.io/](https://grpc.io/)
