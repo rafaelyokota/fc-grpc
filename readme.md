@@ -7,7 +7,10 @@
 ## Configuração do ambiente de desenvolvimento
     - Utilizado Visual Studio Code 
         - Plugin Remote Container (https://code.visualstudio.com/docs/remote/containers) 
-
+    
+    - go version go1.17.8 linux/amd64
+    - Depencias do go está no arquivo go.mod
+  
 ## Comandos
     - Rodar Servidor
         go run cmd/client/server.go
